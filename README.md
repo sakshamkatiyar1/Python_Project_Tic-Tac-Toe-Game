@@ -14,6 +14,7 @@ A simple Tic-Tac-Toe GUI game built using Python’s tkinter library. This proje
 # Technologies Used
 
 Python
+
 Tkinter (GUI Library)
 
 # Project Structure
@@ -32,12 +33,12 @@ The game ends when a player wins
 
 # Screenshot
 
-![Game Screenshot]()
+![Game Screenshot](https://github.com/sakshamkatiyar1/Python_Project_Tic-Tac-Toe-Game/blob/main/Tic%20Tac%20Toe%20Screenshot.png)
 
-🤝 Contributing
+# Contributing
 
 Feel free to fork this repository and improve the project!
 
-📬 Connect with Me
+# Connect with Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/sakshamkatiyar36
+ LinkedIn: https://www.linkedin.com/in/sakshamkatiyar36
