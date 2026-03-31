@@ -19,10 +19,9 @@ Tkinter (GUI Library)
 
 # Project Structure
 
-Tic-Tac-Toe/
-│
-├── Tic Tac Toe Game.py   # Main game file
-└── README.md        # Project documentation
+Tic Tac Toe Game.py   # Main game file
+
+README.md        # Project documentation
 
 # Game Rules
 
